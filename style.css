@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+}
+
+span{
+    padding: 0 50px;
+    border: 2px solid black
+}
+
+form{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    width: 200px;
+}
+
+#activities{
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.green{
+
+    color: green;
+}
+
+.red {
+
+    color: red;
+}
